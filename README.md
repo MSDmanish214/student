@@ -121,6 +121,10 @@ You can improve this contract by:
 * Integrating **soulbound tokens (SBTs)** to make achievements tokenized and non-transferable.
 
 Acknowledgments
+
 Celo Blockchain for providing eco-friendly infrastructure
+
 Remix IDE for easy smart contract testing
-Blockscout for transparent transaction viewing    
+
+Blockscout for transparent transaction viewing 
+
